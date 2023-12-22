@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "lapoliceallocation-ai"
+version = "0.1.0"
+description = "AI which assists in the allocation of police ressources in LA"
+authors = ["Nils"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
