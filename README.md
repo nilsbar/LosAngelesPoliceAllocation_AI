@@ -4,3 +4,5 @@ This repository contains a project that aims to build a deployable ML model to h
 
 
 Discussion about the training data:
+
+Use these pre-commit-hooks:
